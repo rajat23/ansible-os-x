@@ -1,0 +1,5 @@
+---
+- hosts: dbserver
+  roles:
+    - {role: install_mysql}
+
