@@ -1,15 +1,15 @@
-# ansible-os-x
+# Ansible-os-x
 
 Install MySQL on OS X using the ansible playbook
 ============
-Reqirements:
+Prerequisites:
 ========================================================
 You should have ansible installed on machine where you would like to play this ansible playbook
 
 - On Mac OS-X ,install ansible using ```` brew install ansible ````
 - You should have RSA Key generated on your machine. If not follow this link ````https://help.github.com/articles/generating-ssh-keys/````
 
-To run playbook
+To Run playbook
 ===============
 
 - First clone the repositoy using ```` git clone https://github.com/rajat23/ansible-os-x.git ````
